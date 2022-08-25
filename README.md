@@ -8,7 +8,7 @@
 
 ## 스터디 장소
   - 비대면 플랫폼
-  - Zoom, Discord, Teams, Slack 이용
+  - Zoom, Discord, Teams, Slack
 
 ## 스터디 방법
   - 준비 : 강의 1개 및 그에 해당하는 교재 분량을 정리 후, (스터디 시작 전까지) Git Issue에 링크 댓글 남기기
